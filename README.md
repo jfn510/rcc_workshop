@@ -1,4 +1,4 @@
-# Learning Git
+## Learning Git
 
 Here's our todo:
 
