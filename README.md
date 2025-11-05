@@ -7,3 +7,4 @@ Here's our todo:
 - [x] Fix this typo
 - [x] Make a new item on the todo list
 - [x] Made a change and then got rid of it
+- [x] Make less silly
